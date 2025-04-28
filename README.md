@@ -31,7 +31,6 @@
 ---
 
 ## 📫 How to Reach Me  
-- 💌 Email: chandramauli8986@gmail.com  
 - 🌐 GitHub: [Chandramauli-Arm64](https://github.com/Chandramauli-Arm64)  
 
 ---
